@@ -1,16 +1,41 @@
-## Hi there 👋
+# Системный администратор → SRE / DevOps
 
-<!--
-**ola-ja/ola-ja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Начинающий SRE-инженер.
 
-Here are some ideas to get you started:
+Работаю системным администратором и параллельно обучаюсь
+в Школе 21 по направлению DevOps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Развиваюсь в Linux, сетях, контейнеризации, CI/CD и автоматизации.
+Интересуюсь надёжностью систем, мониторингом и эксплуатацией инфраструктуры.
+
+## Навыки
+
+- Linux / Ubuntu Server
+- Git / GitLab
+- Bash / Python / C
+- Docker / Docker Compose
+- CI/CD / GitLab Runner
+- nginx
+- PostgreSQL
+- Основы компьютерных сетей
+- Администрирование и диагностика систем
+
+## Проекты
+
+- **CI/CD для C-проекта** — GitLab Runner, CI/CD, тестирование, автоматический деплой
+- **Linux & Network** — Ubuntu Server, маршрутизация, NAT, firewall, диагностика сети
+- **Docker & nginx** — Dockerfile, Docker Compose, nginx, Dockle
+
+## Обучение
+
+**Школа 21 — DevOps**  
+2025 — настоящее время
+
+## Сейчас изучаю
+
+Kubernetes · Prometheus · Grafana · Ansible · Terraform
+
+## Контакты
+
+- Telegram: @goaaivds
+- Email: olga.5102.er@gmail.com
